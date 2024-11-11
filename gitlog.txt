@@ -1,0 +1,242 @@
+commit 7faacfaab5356e7bbc6c0ce320a7759a8e9162e1
+Author: Alisha <av523@cornell.edu>
+Date:   Thu May 16 03:07:15 2024 -0400
+
+    Added more test cases and cleaned up code
+
+commit 691d163e56081e3e370289a218b9fb05877ea5da
+Author: Alisha <av523@cornell.edu>
+Date:   Thu May 16 02:13:20 2024 -0400
+
+    Added test cases for more coverage
+
+commit c3acde07826264aa3fb9de0485197d53dbf82867
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Wed May 15 22:16:31 2024 -0400
+
+    Some morerefactoring
+
+commit 05b6526208e12a1a3ff69563aec0ef630cf81771
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Wed May 15 22:00:38 2024 -0400
+
+    Pushe dhelper function changes
+
+commit dfde7df867c6c88c7c40b7594da2ca7380e79954
+Author: Alisha <av523@cornell.edu>
+Date:   Wed May 15 21:09:25 2024 -0400
+
+    Added styling changes and code comments
+
+commit a45dbd0f9608f5231d572cf42a64d62e13dc21ff
+Author: Amishi <ag2424@cornell.edu>
+Date:   Wed May 15 18:22:18 2024 -0400
+
+    added more test cases to test new functionality
+
+commit 3577be533863bc9bd55bbd96f291bdb596d5ccd9
+Merge: 6311057 21016c6
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Mon May 13 22:12:56 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:rb895/final_3110
+
+commit 6311057c045d7712ee2bea5be27f18990bc4c067
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Mon May 13 22:12:22 2024 -0400
+
+    Pushed statistics changes
+
+commit 21016c65aeb8ef4ea634b353549a0ae8d9b21be9
+Author: Alisha <av523@cornell.edu>
+Date:   Sun May 12 23:09:24 2024 -0400
+
+    Made formatting changes to code
+
+commit cdd9cc89ab20605d0adced89d8540dc1e9c8069c
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Sun May 12 15:47:21 2024 -0400
+
+    "Pushed a timer change"
+
+commit 9055d380b5b28743dbe73cd2c3c9deeec89f526f
+Author: Amishi <ag2424@cornell.edu>
+Date:   Sat May 11 14:06:07 2024 -0400
+
+    changed package depdendencies
+
+commit dc033baff0736ec0134847efea662e8706328687
+Author: Alisha <av523@cornell.edu>
+Date:   Sat May 11 13:45:29 2024 -0400
+
+    Added more test cases
+
+commit 7407dc41afed89bf1378a9722491835dfe0e944f
+Author: Alisha <av523@cornell.edu>
+Date:   Sat May 11 13:37:18 2024 -0400
+
+    Added more test cases
+
+commit 1a1feae885056646c6c3532acb8c38b3684f7176
+Author: Alisha <av523@cornell.edu>
+Date:   Sat May 11 10:17:35 2024 -0400
+
+    Fixed test cases
+
+commit 9812085160ad05bdbeb9a01f6a31825047d34043
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Sat May 11 09:59:41 2024 -0400
+
+    Pushed bug fix
+
+commit b9337f70a021131bf2865b8cff149ea583a2b599
+Author: Alisha <av523@cornell.edu>
+Date:   Fri May 10 22:53:02 2024 -0400
+
+    Implemented more test cases
+
+commit 3a1bc88cf6099004373ca7c56214b08e68615d11
+Merge: 90f38e1 5557543
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Fri May 10 21:25:15 2024 -0400
+
+    Added more code to complete level functionalities
+
+commit 90f38e1578fa77d9ff48b82b889a3e9e5173a3b6
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Fri May 10 21:24:10 2024 -0400
+
+    Co-authored-by: Amishi Gupta <ag2424@cornell.edu>
+    Co-authored-by: Alisha Varma <alishav14@users.noreply.github.com>
+
+commit 5557543f801591f89a0bd45f38b5f1197d3b56ba
+Author: Amishi <ag2424@cornell.edu>
+Date:   Fri May 10 20:33:42 2024 -0400
+
+    fixed small error
+
+commit 5dac5b131d087c73cf8c996610ed6010890a4883
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Fri May 10 20:30:40 2024 -0400
+
+    Style changes
+
+commit bd65b35fbfc677aeed333321669dd551134a309f
+Author: Alisha <av523@cornell.edu>
+Date:   Fri May 10 01:31:46 2024 -0400
+
+    Added test cases to cover more functionality
+
+commit 518c222b0817f56c8266814e890e730237a55ffc
+Author: Alisha <av523@cornell.edu>
+Date:   Fri May 10 00:36:44 2024 -0400
+
+    Added some test cases
+
+commit 73fb6690dc37c3af9227f7732bc2fcca74175e74
+Author: Alisha <av523@cornell.edu>
+Date:   Thu May 9 23:44:22 2024 -0400
+
+    Added another level for AI player & fixed messages
+
+commit aad52390dc8da9c378cced2d7098c2df1c3b3e9a
+Author: Alisha <av523@cornell.edu>
+Date:   Thu May 9 21:30:29 2024 -0400
+
+    Implemented easy version of the AI vs hard version
+
+commit 599c0bec8316690739167638841a0448d414af35
+Author: Amishi <ag2424@cornell.edu>
+Date:   Tue May 7 01:46:19 2024 -0400
+
+    changed test file
+
+commit 4fecd1e555fb8a722c0d77b6593182b13653cc5b
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Fri May 3 11:32:12 2024 -0400
+
+    Pushed minimax bug fix
+
+commit 6c987ecab1cddc78247c1dbbf50d7777da40a928
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Wed May 1 23:39:09 2024 -0400
+
+    Pushed some design changes and coloring for the board
+
+commit 77db2736377609d19ce5dd1a08b45a586a85d15a
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Fri Apr 19 09:40:29 2024 -0400
+
+    Added minimax with depth 4 with alpha-beta pruning
+
+commit 93269ddf319e232795fd80bc8e79c8e294bb60f3
+Author: Alisha <av523@cornell.edu>
+Date:   Thu Mar 28 21:31:13 2024 -0400
+
+    Implemented test cases for more functionalities
+
+commit 35901004712a32e59ae240ab1d47837692c5ba36
+Author: Amishi <ag2424@cornell.edu>
+Date:   Thu Mar 28 11:13:36 2024 -0400
+
+    Added the instructions and yaml file
+
+commit 7f699b9297f5f65191597919517db93ad4618ac3
+Author: Alisha <av523@cornell.edu>
+Date:   Wed Mar 27 12:39:47 2024 -0400
+
+    Added test cases for state.ml functionalities
+
+commit 36914bcce27f462e42027693dfef14173ab912d7
+Author: Amishi <ag2424@cornell.edu>
+Date:   Tue Mar 26 18:15:08 2024 -0400
+
+    created the main file code which displays the game GUI
+
+commit fd85423adbb7ef3af5a702dbfb01facf1de7e831
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Tue Mar 26 18:12:09 2024 -0400
+
+    Finished backend for terminal Connect4
+
+commit b6554e4ab576f2dd2e290a1cf8e80b20e9acd39a
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Sat Mar 23 21:01:41 2024 -0400
+
+    Pushed GUI changes
+
+commit 36e0e4c4573bab6faaeaf0b6ec0af1ae830e8c22
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Sat Mar 23 20:33:53 2024 -0400
+
+    Pushed labgtkl changes
+
+commit 43f5d1aed6119824a271b509057d96dcf3de319c
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Sat Mar 23 18:43:28 2024 -0400
+
+    Ocaml Format
+
+commit 5449de92d29c62bba6ad1f880360d26a6b0fb418
+Author: av523 <av523@cornell.edu>
+Date:   Mon Mar 11 02:58:19 2024 -0400
+
+    Update README.md
+
+commit 6ef27e852f7ef132cfe2adc10b69808c537f4fd3
+Author: Amishi <ag2424@cornell.edu>
+Date:   Sat Mar 9 17:53:27 2024 -0500
+
+    Changed README
+
+commit 6d745daf13fddee0d53144dc5a8afe3745af70d6
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Sat Mar 9 12:45:49 2024 -0500
+
+    Read me commit
+
+commit 3d577f916eef809258b1b3385187287394168471
+Author: Ravnoor Bedi <rb895@cornell.edu>
+Date:   Sat Mar 9 12:38:34 2024 -0500
+
+    Iniital Commit
